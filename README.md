@@ -47,7 +47,5 @@ Ik ben een Student software engineering bij de Haagse Hogeschool.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
   <br>
-  <h3>ProjectTools:</h3><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="SF" alt="sf" width="40" height="40"/>&nbsp;
 </div>
   
