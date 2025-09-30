@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://nl.linkedin.com/in/thom-versluis-01a036235?) 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/22082476)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lightgrey?style=for-the-badge)](https://github.com/22082476?tab=repositories)
 
 ---
 
