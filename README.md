@@ -57,10 +57,10 @@ I'm a Student Software engineering at the The Hague University of Applied Scienc
 <br>
 **Tech Stack:** Python, AWS, Rancher Kubernetes, Jenkins, Docker
 
-### [RoadCast 🏍️](https://github.com/22082476/RoadCast)
+### [RoadCast 🏍️](https://github.com/22082476/RoadCast) - [RoadCast-Api](https://github.com/22082476/RoadCast-Api)
 **Description:** A React App to (auto) determine if the weather is good enough to travel with motorcylce.
 <br>
-**Tech Stack:** React, JavaScript, CSS, Python, AWS Lambda 
+**Tech Stack:** React, JavaScript, CSS, Python, Vercel 
 
 ### [MonyCalc 💰](https://github.com/22082476/MoneyCalc)
 **Description:** A simple website to calculate worked hours for a period.  
