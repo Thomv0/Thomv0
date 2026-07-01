@@ -69,7 +69,8 @@ I'm a Student Software engineering at the The Hague University of Applied Scienc
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=22082476&show_icons=true&theme=tokyonight)
+![Your Name's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Thomv0&theme=radical)
+
 
 ---
 
