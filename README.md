@@ -54,6 +54,12 @@ I strongly value Clean Architecture principles and apply them when designing sca
 ---
 
 ## 🏆 Projects
+
+### [CMS-agnostic Infrastructure Framework 🚀](https://www.linkedin.com/in/thom-versluis-01a036235/details/projects)
+**Description:** CMS-independent infrastructure framework for Azure Cloud using Terraform. Includes a Python CLI for automatic configuration generation and follows C4 modeling and Clean Architecture to ensure scalability, maintainability, and consistent infrastructure delivery.. Made during Internship at [iO Digital](https://github.com/iodigital-com). 
+<br>
+**Tech Stack:** Terraform, Python, Azure, Clean Architecture, C4 Model
+
 ### [Synchronization Service 🚀](https://www.linkedin.com/in/thom-versluis-01a036235/details/projects)
 **Description:** The Synchronization Service is a reliable solution for one-way data synchronization, independent of source or destination. Made during Internship at [Harborn Digital](https://github.com/Harborn-digital). 
 <br>
