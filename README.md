@@ -58,7 +58,7 @@ I'm a Student Software engineering at the The Hague University of Applied Scienc
 **Tech Stack:** Python, AWS, Rancher Kubernetes, Jenkins, Docker
 
 ### [RoadCast 🏍️](https://github.com/22082476/RoadCast) - [RoadCast-Api](https://github.com/22082476/RoadCast-Api)
-**Description:** A React App to (auto) determine if the weather is good enough to travel with motorcylce.
+**Description:** A React App to (auto) determine if the weather is good enough to travel with motorcycle.
 <br>
 **Tech Stack:** React, JavaScript, CSS, Python, Vercel 
 
