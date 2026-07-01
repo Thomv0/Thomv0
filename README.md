@@ -9,7 +9,9 @@
 ---
 
 ## About Me
-I'm a Student Software engineering at the The Hague University of Applied Sciences, passionate about building impactful software solutions. I love making practical Software solutions that can improve every day life.  
+I'm a Software engineer from The Netherlands, passionate about building impactful software solutions. I enjoy creating practical software that improves everyday life.
+
+I strongly value Clean Architecture principles and apply them when designing scalable and maintainable systems. I am particularly interested in growing my expertise in software architecture and system design.
 
 ---
 
